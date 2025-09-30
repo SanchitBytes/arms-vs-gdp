@@ -93,7 +93,7 @@ Performed in Excel and Python (Pandas):
 ## 📬 Contact & Portfolio
 Created by **Sanchit Gupta**  
 🔗 [LinkedIn](https://www.linkedin.com/in/sanchitbytes/)  
-🌐 Portfolio: https://sanchitbytes.github.io/
+🌐 [Portfolio](https://sanchitbytes.github.io/) 
 
 *This project demonstrates advanced data analysis skills in geopolitical and economic data interpretation, visualization, and strategic insights generation.*
 =======
