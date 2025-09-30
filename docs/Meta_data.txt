@@ -1,0 +1,3 @@
+In SIPRI data,
+TIV: stands for Trend-Indicator Value, a unique, standardized unit used to measure the volume of international arms transfers, not their financial value. Developed by the Stockholm International Peace Research Institute (SIPRI), TIV provides a common measure to compare different weapons and identify general transfer trends by assigning comparable values to arms systems with similar capabilities. 
+

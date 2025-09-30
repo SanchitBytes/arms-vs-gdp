@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Data files
+*.csv
+*.xlsx
+*.zip
+
+# Output folders
+outputs/
+figures/
+reports/
+tables/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+*.egg-info/
