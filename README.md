@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arms Trade Analysis (2020-2023)
 
 ## 📊 Project Overview
@@ -116,3 +117,7 @@ Created by **Sanchit Gupta**
 🌐 Portfolio: https://sanchitbytes.github.io/
 
 *This project demonstrates advanced data analysis skills in geopolitical and economic data interpretation, visualization, and strategic insights generation.*
+=======
+# arms-vs-gdp
+Analyzed 2020-23 global arms trade using SIPRI/World Bank data. Cleaned data, performed EDA &amp; built interactive visualizations in Python (Pandas, Seaborn, Plotly) to reveal geopolitical &amp; economic patterns. Shows data storytelling &amp; dashboard skills.
+>>>>>>> f0999ff36377e99200e4922846c4f4d36ed900aa
