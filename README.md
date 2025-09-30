@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Arms Trade Analysis (2020-2023)
 
 ## 📊 Project Overview
