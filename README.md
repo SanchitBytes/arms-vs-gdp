@@ -76,26 +76,6 @@ Performed in Excel and Python (Pandas):
 - Bar charts for market share analysis
 - Network graphs for relationship mapping
 
-## 📁 File Structure
-arms-trade-analysis/
-├── data/
-│ ├── sipri_arms_transfers.csv
-│ ├── worldbank_gdp.csv
-│ └── cleaned_arms_data.csv
-├── notebooks/
-│ ├── exploratory_analysis.ipynb
-│ └── data_cleaning.ipynb
-├── visuals/
-│ ├── top_exporters.png
-│ ├── sankey_diagram.html
-│ ├── arms_vs_gdp_plotly.html
-│ └── network_analysis.png
-├── outputs/
-│ ├── analysis_report.pdf
-│ └── key_insights.csv
-└── README.md
-
-
 ## 🚀 Key Features
 - **Dynamic Analysis**: Automatically identifies top importers from data
 - **Interactive Visualizations**: Plotly-based charts for exploration
@@ -119,4 +99,3 @@ Created by **Sanchit Gupta**
 =======
 # arms-vs-gdp
 Analyzed 2020-23 global arms trade using SIPRI/World Bank data. Cleaned data, performed EDA &amp; built interactive visualizations in Python (Pandas, Seaborn, Plotly) to reveal geopolitical &amp; economic patterns. Shows data storytelling &amp; dashboard skills.
->>>>>>> f0999ff36377e99200e4922846c4f4d36ed900aa
